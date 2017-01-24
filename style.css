@@ -1,0 +1,38 @@
+.salutation, .closure {
+    font-family: "Book Antiqua", Times, serif;
+    font-size: 25px;
+}
+.salutation {
+    margin-top: 0;
+}
+.body {
+    font-family: Georgia, serif;
+    font-size: 16px;
+}
+.closure {
+    margin-bottom: 10px
+}
+.signature {
+    font-family: "Brush Script MT", cursive;
+    font-size: 40px;
+    margin: 5px;
+    margin-bottom: 0
+}
+
+.card {
+    margin: 40px;
+    margin-left: 45%;
+    padding: 15px;
+    background-color: #cccccc;
+}
+.note {
+    max-height: 75vh;
+    padding: 15px;
+    background-color: #999999;
+    overflow-y: scroll;
+}
+
+body {
+    height: 100vh;
+    background-color: black;
+}
